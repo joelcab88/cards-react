@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d46f716.css",
+    "main.js": "/static/js/main.aa132472.js",
+    "static/js/787.8874f68f.chunk.js": "/static/js/787.8874f68f.chunk.js",
+    "static/media/law.png": "/static/media/law.e706a1a85af2c5eaa901.png",
+    "static/media/law2.png": "/static/media/law2.a2e97cc98084d56079e4.png",
+    "index.html": "/index.html",
+    "main.3d46f716.css.map": "/static/css/main.3d46f716.css.map",
+    "main.aa132472.js.map": "/static/js/main.aa132472.js.map",
+    "787.8874f68f.chunk.js.map": "/static/js/787.8874f68f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d46f716.css",
+    "static/js/main.aa132472.js"
+  ]
+}
